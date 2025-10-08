@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearningFile\\ReactJS\\AdminWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\pages\\authencation\\signin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\pages\\authencation\\signin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\pages\\task\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\pages\\task\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\viewmodels\\taskdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\viewmodels\\taskdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\pages\\member\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\pages\\member\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\components\\pagination\\pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\components\\pagination\\pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\components\\taskactionmenu\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\components\\taskactionmenu\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\components\\actionmenu\\actionmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\components\\actionmenu\\actionmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\components\\taskactionmenu\\taskactionmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\components\\taskactionmenu\\taskactionmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\taskassignees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\taskassignees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B5DF6-E02A-4A1B-81C1-6C18BADE6BAF}|AdminWebApp.Server\\AdminWebApp.Server.csproj|solutionrelative:adminwebapp.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|d:\\learningfile\\reactjs\\adminwebapp\\adminwebapp.client\\src\\pages\\task\\adddetailplan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7EE69E-E164-E4F2-7C48-9FDB998B2087}|adminwebapp.client\\adminwebapp.client.esproj|solutionrelative:adminwebapp.client\\src\\pages\\task\\adddetailplan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Authencation\\SignIn.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\pages\\Authencation\\SignIn.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Authencation\\SignIn.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\pages\\Authencation\\SignIn.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T16:12:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:10:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:10:07.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Member\\List.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\pages\\Member\\List.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Member\\List.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\pages\\Member\\List.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T14:55:58.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pagination.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\Pagination\\Pagination.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\components\\Pagination\\Pagination.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\Pagination\\Pagination.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\components\\Pagination\\Pagination.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T14:55:31.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\TaskActionMenu\\index.js",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\components\\TaskActionMenu\\index.js",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\TaskActionMenu\\index.js",
+              "RelativeToolTip": "adminwebapp.client\\src\\components\\TaskActionMenu\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-01T08:54:59.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActionMenu.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\ActionMenu\\ActionMenu.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\components\\ActionMenu\\ActionMenu.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\ActionMenu\\ActionMenu.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\components\\ActionMenu\\ActionMenu.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T08:54:53.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskActionMenu.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\TaskActionMenu\\TaskActionMenu.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\components\\TaskActionMenu\\TaskActionMenu.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\components\\TaskActionMenu\\TaskActionMenu.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\components\\TaskActionMenu\\TaskActionMenu.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T08:52:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Task\\List.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\pages\\Task\\List.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Task\\List.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\pages\\Task\\List.jsx",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T08:13:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlansController.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\PlansController.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Controllers\\PlansController.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\PlansController.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Controllers\\PlansController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAswO0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:40:40.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:31:32.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskCategory.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskCategory.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\TaskCategory.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskCategory.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\TaskCategory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:06:16.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\Employee.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\Employee.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:06:09.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\DBContext.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\DBContext.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\DBContext.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:00:09.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskAssignees.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskAssignees.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\TaskAssignees.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskAssignees.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\TaskAssignees.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:58:40.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\Plan.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\Plan.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\Plan.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\Plan.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:11:01.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDetail.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskDetail.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\Models\\TaskDetail.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\Models\\TaskDetail.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\Models\\TaskDetail.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:56:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDetailRequest.cs",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\ViewModels\\TaskDetailRequest.cs",
+              "RelativeDocumentMoniker": "AdminWebApp.Server\\ViewModels\\TaskDetailRequest.cs",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\AdminWebApp.Server\\ViewModels\\TaskDetailRequest.cs",
+              "RelativeToolTip": "AdminWebApp.Server\\ViewModels\\TaskDetailRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:53:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddDetailPlan.jsx",
+              "DocumentMoniker": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Task\\AddDetailPlan.jsx",
+              "RelativeDocumentMoniker": "adminwebapp.client\\src\\pages\\Task\\AddDetailPlan.jsx",
+              "ToolTip": "D:\\LearningFile\\ReactJS\\AdminWebApp\\adminwebapp.client\\src\\pages\\Task\\AddDetailPlan.jsx",
+              "RelativeToolTip": "adminwebapp.client\\src\\pages\\Task\\AddDetailPlan.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-01T06:44:35.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

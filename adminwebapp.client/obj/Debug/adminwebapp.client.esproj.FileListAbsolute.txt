@@ -1,0 +1,3 @@
+C:\Users\Computer\Music\KhoaHocReact2025\AdminWebApp\adminwebapp.client\obj\Debug\adminwebapp.client.esproj.CoreCompileInputs.cache
+D:\BackEnd_Learning\AdminWebApp\adminwebapp.client\obj\Debug\adminwebapp.client.esproj.CoreCompileInputs.cache
+D:\LearningFile\ReactJS\AdminWebApp\adminwebapp.client\obj\Debug\adminwebapp.client.esproj.CoreCompileInputs.cache
